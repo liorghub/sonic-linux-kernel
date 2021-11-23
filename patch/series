@@ -101,6 +101,7 @@ net-sch_generic-fix-the-missing-new-qdisc-assignment.patch
 0049-mlxsw-thermal-Read-module-temperature-thresholds-usi.patch
 0050-hwmon-pmbus-mp2975-Add-missed-POUT-attribute-for-pag.patch
 0051-hwmon-mlxreg-fan-Return-non-zero-value-when-fan-curr.patch
+0051B-hwmon-mlxreg-fan-Return-non-zero-value-when-fan-curr.patch
 0052-platform-mellanox-mlxreg-hotplug-Add-support-for-new.patch
 0053-platform_data-mlxreg-Add-presence-register-field-for.patch
 0054-platform_data-mlxreg-Extend-core-platform-structure.patch
